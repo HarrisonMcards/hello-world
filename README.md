@@ -1,3 +1,3 @@
 # hello-world
 First repository
-Im from JCM Early College High. I play baseball. Im superior in music taste.
+I am from JCM Early College High. I play baseball. I am superior in music taste.
